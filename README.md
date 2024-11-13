@@ -58,7 +58,6 @@ The following features were identified as the most important in predicting fight
 3.  **Fighter's Age:**  Age plays a role in fight outcomes, although the specific relationship (whether younger or older fighters are favored) depends on the model's coefficients.
 4.  **Fighter's Height:** Taller fighters may have an advantage in certain situations.
 5.  **Fighter's Weight:** Weight can be a factor, potentially indicating strength or power differences.
-6.  **... (Include other important features and their interpretations) ...**
 
 ## Future Work
 
