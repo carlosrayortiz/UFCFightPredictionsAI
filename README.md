@@ -38,7 +38,17 @@ The model was developed using the following steps:
 
 ## Results
 
-The model achieved [mention your model's performance metrics, e.g., accuracy, F1-score] on the test dataset. The notebook also includes visualizations of predicted fight outcomes and feature importances.
+The model achieved [mention your model's performance metrics, e.g., accuracy, F1-score] on the test dataset. The notebook also includes visualizations of predicted fight outcomes and feature importance.
+### Predicted Fight Outcomes for UFC 309
+
+| Fight                       | Predicted Winner | Probability |
+| --------------------------- | ---------------- | ----------- |
+| Jon Jones vs Stipe Miocic   | Jon Jones        | 0.85        |
+| Charles Oliveira vs Michael Chandler | Charles Oliveira | 0.62        |
+| Bo Nickal vs Paul Craig     | Bo Nickal       | 0.91        |
+| Viviane Araujo vs Karine Silva | Viviane Araujo   | 0.58        |
+| Mauricio Ruffy vs James Llontop | Mauricio Ruffy  | 0.75        |
+
 
 ## Future Work
 
