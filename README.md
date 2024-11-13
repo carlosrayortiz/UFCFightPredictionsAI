@@ -49,6 +49,16 @@ The model achieved [mention your model's performance metrics, e.g., accuracy, F1
 | Viviane Araujo vs Karine Silva | Viviane Araujo   | 0.58        |
 | Mauricio Ruffy vs James Llontop | Mauricio Ruffy  | 0.75        |
 
+### Feature Importance
+
+The following features were identified as the most important in predicting fight outcomes:
+
+1.  **Average Significant Strikes Landed:**  Fighters who land more significant strikes on average tend to have a higher probability of winning.
+2.  **Opponent's Average Losses:**  Facing an opponent with a higher number of losses increases the fighter's chances of winning.
+3.  **Fighter's Age:**  Age plays a role in fight outcomes, although the specific relationship (whether younger or older fighters are favored) depends on the model's coefficients.
+4.  **Fighter's Height:** Taller fighters may have an advantage in certain situations.
+5.  **Fighter's Weight:** Weight can be a factor, potentially indicating strength or power differences.
+6.  **... (Include other important features and their interpretations) ...**
 
 ## Future Work
 
