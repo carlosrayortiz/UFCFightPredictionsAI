@@ -8,6 +8,12 @@ This repository contains a machine learning model for predicting the outcomes of
 
 This project was developed to explore the application of machine learning in the domain of mixed martial arts (MMA). The goal was to build a model that could accurately predict the outcome of UFC fights based on available fighter data.
 
+## Data Source
+
+The model was trained using the "UFC Dataset 2024" available on Kaggle. This dataset provides comprehensive information on UFC fighters, events, and fight statistics.
+
+*   **Kaggle Dataset Link:** [https://www.kaggle.com/datasets/thasankakandage/ufc-dataset-2024](https://www.kaggle.com/datasets/thasankakandage/ufc-dataset-2024)
+
 ## Model Development
 
 The model was developed using the following steps:
